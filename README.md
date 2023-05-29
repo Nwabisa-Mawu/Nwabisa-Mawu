@@ -1,3 +1,5 @@
-### Hi there 👋
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-I am an aspiring software developer with a solid understanding of HTML, CSS, JavaScript and their respective frameworks and an eagerness to learn. I am seeking opportunities to apply my skills by contributing to innovative projects and collaborating with professionals in the industry. I have a passion for problem-solving and drive to continuously improve my abilities through self-learning and from fellow developers. I am eager to continue expanding my knowledge and skills to become a valuable asset to any organization I work with.
+### Hi there, My name is Nwabisa Mawu 👋
+
+I'm a detail-oriented software development graduate with a passion for leveraging technology for positive impact. I thrive in collaborative environments, I contribute to innovative projects, bringing digital magic to life. With problem-solving skills and a hunger for self-improvement, I aim to be a valuable asset to any project I contribute to. Eager to embrace new opportunities, I bring curiosity, enthusiasm, and a drive for excellence as a junior frontend developer. Let's connect and create impactful solutions together.
