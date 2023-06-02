@@ -19,6 +19,11 @@ I'm a detail-oriented software development graduate with a passion for leveragin
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nwabisa-Mawu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Nwabisa-Mawu/count.svg" />
+</p>
+ 
 ## Connect with me
  <a href="mailto:nwabisa.mawu@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nwabisa-mawu-b21735198"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
