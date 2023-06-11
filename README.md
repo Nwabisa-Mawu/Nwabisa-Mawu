@@ -1,39 +1,31 @@
+<h1 align="center">Hi 👋, I'm Nwabisa</h1>
+<h3 align="center">A coding fan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nwabisa-mawu&label=Profile%20views&color=0e75b6&style=flat" alt="nwabisa-mawu" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=900&size=30&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Front-end+Developer.;Tech-enthusiast.;Full-time+bookworm.;Part-time+cinephile.;A+curious+cat%3F)](https://git.io/typing-svg)
+- 🔭 I’m currently working on [my personal website. Coming soon :wink:](https://github.com/Nwabisa-Mawu/NWAMAW034_FTC2301_GroupB_NwabisaMawu_ITW9_Digital_Resume.git)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+- 🌱 I’m currently learning **JavaScript Programming paradigms.**
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=cobalt)
+- 🤝 I’m looking for help with a Front-end development internship, find me on [LinkedIn.](https://www.linkedin.com/in/nwabisa-mawu-b21735198/)
 
-![image](https://github.com/Nwabisa-Mawu/Nwabisa-Mawu/assets/89596900/4752c96c-075c-43b3-8836-23feb5c0c6af)
+- 💬 Ask me about : **Responsive web design and science-fiction.**
 
-# Hi there, My name is Nwabisa Mawu <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+- 📫 How to reach me : **nwabisa.mawu@gmail.com**
 
-I'm a detail-oriented software development graduate with a passion for leveraging technology for positive impact. I thrive in collaborative environments, I contribute to innovative projects, bringing digital magic to life. With problem-solving skills and a hunger for self-improvement, I aim to be a valuable asset to any project I contribute to. Eager to embrace new opportunities, I bring curiosity, enthusiasm, and a drive for excellence as a junior frontend developer. Let's connect and create impactful solutions together.
+- 📄 Resume : [https://github.com/Nwabisa-Mawu/Nwabisa-Mawu/blob/main/Miss_Nwabisa%20Mawu_Resume.pdf](https://github.com/Nwabisa-Mawu/Nwabisa-Mawu/blob/main/Miss_Nwabisa%20Mawu_Resume.pdf)
 
-## Tools I can use:
- <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
- <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
- 
-## Github stats
- <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Nwabisa-Mawu&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nwabisa-Mawu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nwabisa-Mawu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
- 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Nwabisa-Mawu/count.svg" />
+- ⚡ Fun fact : **Ich spreche Deutsch und fünf weitere Sprachen.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/nwabisa mawu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nwabisa mawu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nwabisa mawu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nwabisa mawu" height="30" width="40" /></a>
 </p>
- 
-## Connect with me
- <a href="mailto:nwabisa.mawu@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nwabisa-mawu-b21735198"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nwabisa-mawu&show_icons=true&locale=en" alt="nwabisa-mawu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nwabisa-mawu&" alt="nwabisa-mawu" /></p>
