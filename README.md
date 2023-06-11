@@ -1,4 +1,4 @@
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=cobalt)
+<p align = "center">![Jokes Card](https://readme-jokes.vercel.app/api?theme=cobalt)</p>
 
 # Hi there, My name is Nwabisa Mawu <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
