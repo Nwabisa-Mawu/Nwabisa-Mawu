@@ -1,4 +1,4 @@
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+                              ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # Hi there, My name is Nwabisa Mawu <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
