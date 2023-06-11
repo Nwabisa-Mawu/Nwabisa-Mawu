@@ -4,8 +4,6 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nwabisa-mawu&label=Profile%20views&color=0e75b6&style=flat" alt="nwabisa-mawu" /> </p>
-
 - 🔭 I’m currently working on [my personal website. Coming soon :wink:](https://github.com/Nwabisa-Mawu/NWAMAW034_FTC2301_GroupB_NwabisaMawu_ITW9_Digital_Resume.git)
 
 - 🌱 I’m currently learning **JavaScript Programming paradigms.**
@@ -32,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nwabisa-mawu&show_icons=true&locale=en" alt="nwabisa-mawu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nwabisa-mawu&" alt="nwabisa-mawu" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nwabisa-mawu&label=Profile%20views&color=0e75b6&style=flat" alt="nwabisa-mawu" /> </p>
