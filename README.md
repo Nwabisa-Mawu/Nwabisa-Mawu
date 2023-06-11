@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=900&size=40&pause=1000&color=27A6F7&background=FFFFFF00&center=true&vCenter=true&width=650&height=100&lines=Front-end+Developer.;Tech-enthusiast.;Full-time+bookworm.;Part-time+cinephile.;A+curious+cat%3F)](https://git.io/typing-svg)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwabisa-mawu&label=Profile%20views&color=0e75b6&style=flat" alt="nwabisa-mawu" /> </p>
 
 - 🔭 I’m currently working on [my personal website. Coming soon :wink:](https://github.com/Nwabisa-Mawu/NWAMAW034_FTC2301_GroupB_NwabisaMawu_ITW9_Digital_Resume.git)
