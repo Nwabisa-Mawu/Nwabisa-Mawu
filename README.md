@@ -1,8 +1,12 @@
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=900&size=30&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Front-end+Developer.;Tech-enthusiast.;Full-time+bookworm.;Part-time+cinephile.;A+curious+cat%3F)](https://git.io/typing-svg)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=cobalt)
 
 ![image](https://github.com/Nwabisa-Mawu/Nwabisa-Mawu/assets/89596900/4752c96c-075c-43b3-8836-23feb5c0c6af)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # Hi there, My name is Nwabisa Mawu <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
