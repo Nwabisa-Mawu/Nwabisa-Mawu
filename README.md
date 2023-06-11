@@ -14,7 +14,7 @@
 
 - 📫 How to reach me : **nwabisa.mawu@gmail.com**
 
-- 📄 Resume : [https://github.com/Nwabisa-Mawu/Nwabisa-Mawu/blob/main/Miss_Nwabisa%20Mawu_Resume.pdf](https://github.com/Nwabisa-Mawu/Nwabisa-Mawu/blob/main/Miss_Nwabisa%20Mawu_Resume.pdf)
+- 📄 Resume : [Resume PDF](https://github.com/Nwabisa-Mawu/Nwabisa-Mawu/blob/main/Miss_Nwabisa%20Mawu_Resume.pdf)
 
 - ⚡ Fun fact : **Ich spreche Deutsch und fünf weitere Sprachen.**
 
