@@ -4,17 +4,17 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
-- 🔭 I’m currently working on [my personal website. Coming soon :wink:](https://github.com/Nwabisa-Mawu/NWAMAW034_FTC2301_GroupB_NwabisaMawu_ITW9_Digital_Resume.git)
+- 🔭 I’m currently working on my personal website. **Coming soon** :wink:
 
 - 🌱 I’m currently learning **JavaScript Programming paradigms.**
 
-- 🤝 I’m looking for help with a Front-end development internship, find me on [LinkedIn.](https://www.linkedin.com/in/nwabisa-mawu-b21735198/)
+- 🤝 I’m looking for help with a Front-end development internship, find me on [**LinkedIn.**](https://www.linkedin.com/in/nwabisa-mawu-b21735198/)
 
 - 💬 Ask me about : **Responsive web design and science-fiction.**
 
-- 📫 How to reach me : **nwabisa.mawu@gmail.com**
+- 📫 How to reach me : [**Email me**](nwabisa.mawu@gmail.com)
 
-- 📄 Resume : [Resume PDF](https://github.com/Nwabisa-Mawu/Nwabisa-Mawu/blob/main/Miss_Nwabisa%20Mawu_Resume.pdf)
+- 📄 Resume : [**Resume PDF**](https://github.com/Nwabisa-Mawu/Nwabisa-Mawu/blob/main/Miss_Nwabisa%20Mawu_Resume.pdf)
 
 - ⚡ Fun fact : **Ich spreche Deutsch und fünf weitere Sprachen.**
 
