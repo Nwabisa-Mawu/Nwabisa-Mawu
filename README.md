@@ -19,7 +19,7 @@ I'm a detail-oriented software development graduate with a passion for leveragin
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nwabisa-Mawu&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Nwabisa-Mawu)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nwabisa-Mawu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
  
 <p align="center"> 
   Visitor count<br>
