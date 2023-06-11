@@ -1,5 +1,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=cobalt)
 
+![Image](![image](https://github.com/Nwabisa-Mawu/Nwabisa-Mawu/assets/89596900/4752c96c-075c-43b3-8836-23feb5c0c6af)
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # Hi there, My name is Nwabisa Mawu <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
