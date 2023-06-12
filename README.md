@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nwabisa</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=900&size=40&pause=1000&color=27A6F7&background=FFFFFF00&center=true&vCenter=true&width=650&height=100&lines=Front-end+Developer.;Tech-enthusiast.;Full-time+bookworm.;Part-time+cinephile.;A+curious+cat%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=900&size=40&pause=1000&color=27A6F7&background=FFFFFF00&center=true&vCenter=true&width=650&height=100&lines=Front-end+Developer.;Tech-enthusiast.;Full-time+bookworm.;Part-time+cinephile.;A+curious+cat;Passion+for+UX+design.;Fan+of+simple+software%3F)](https://git.io/typing-svg)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
