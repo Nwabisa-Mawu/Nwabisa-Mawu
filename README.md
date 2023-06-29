@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my personal website. **Coming soon** :wink:
 
-- 🌱 I’m currently learning **JavaScript frameworks.**
+- 🌱 I’m currently learning **React library.**
 
 - 🤝 I’m looking for help with a Front-end development internship, find me on [**LinkedIn.**](https://www.linkedin.com/in/nwabisa-mawu-b21735198/)
 
