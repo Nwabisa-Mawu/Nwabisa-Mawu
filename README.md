@@ -4,11 +4,11 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
-- 🔭 I’m currently working on my personal website. **Coming soon** :wink:
+- 🔭 I’m currently working on building all my vanilla JS projects using React:wink:
 
-- 🌱 I’m currently learning **React library.**
+- 🌱 I’m currently mastering **React library.**
 
-- 🤝 I’m looking for help with a Front-end development internship, find me on [**LinkedIn.**](https://www.linkedin.com/in/nwabisa-mawu-b21735198/)
+- 🤝 I’m looking for help with a Front-end development internship, find me on [**My website.**](https://nwabisa.netlify.app/)
 
 - 💬 Ask me about : **Responsive web design and science-fiction.**
 
