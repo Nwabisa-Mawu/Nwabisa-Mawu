@@ -4,17 +4,11 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
-- 🔭 I’m currently working on building all my vanilla JS projects using React:wink:
-
-- 🌱 I’m currently mastering **React library.**
-
-- 🤝 I’m looking for help with a Front-end development internship, find me on [**My website.**](https://nwabisa.netlify.app/)
-
 - 💬 Ask me about : **Responsive web design and science-fiction.**
 
 - 📫 How to reach me : [**Email me**](nwabisa.mawu@gmail.com)
 
-- 📄 Resume : [**Resume PDF**](https://github.com/Nwabisa-Mawu/Nwabisa-Mawu/blob/main/Nwabisa_Mawu_CurrentResume.pdf)
+- 📄 Resume : [**Resume PDF**](https://github.com/Nwabisa-Mawu/Nwabisa-Mawu/blob/main/resume)
 
 - ⚡ Fun fact : **Ich spreche Deutsch und fünf weitere Sprachen.**
 
